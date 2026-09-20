@@ -70,7 +70,7 @@ computing, and astronomy(self-study for personal interest).
 | **Cell Group Identification Using Gen AI** | Using generative AI to identify and group cell populations in biological data |
 
 ### Built
-| Research Projects/Internship | Result | Stack |
+| Notable Research Work, Projects and Internship | Result | Stack |
 |---|---|---|
 | **LLM Hallucination Detection** | Flags hallucinations *before* the model answers | 0.66 AUROC · PyTorch |
 | **Terrain Detection** | Segmentation model adapted from city to off-road scenes | 0.27 → 0.30 mIoU · PyTorch |
