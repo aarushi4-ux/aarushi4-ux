@@ -53,7 +53,6 @@ computing, and astronomy.
 | 🧠 **Machine Learning** | Building and evaluating ML systems for real-world data |
 | 📊 **Data Science** | Finding patterns, extracting insights, and communicating results |
 | ⚛️ **Scientific Computing** | Applying computational methods to scientific datasets |
-| 🌌 **Astronomy** | Exploring data-driven approaches to astrophysics |
 | 🤖 **Applied AI** | Understanding how intelligent systems behave and how to make them more reliable |
 
 ---
