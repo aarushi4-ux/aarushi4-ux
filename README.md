@@ -86,42 +86,28 @@ computing, and astronomy(self-study for personal interest).
 
 ## 🛠️ Toolbox
 
-### Languages
-`Python` `SQL` `R` `C` `C++` `Java`
-
-### Data & Machine Learning
-`Pandas` `NumPy` `Scikit-learn` `PyTorch` `TensorFlow`
-`Statistics` `Data Mining`
-
-### Visualization
-`Matplotlib` `Plotly` `Streamlit`
-
-### Tools
-`Git` `GitHub` `Linux` `VS Code` `Jupyter`
+| Category | Tools |
+|---|---|
+| Languages | `Python` `SQL` `R` `C` `C++` `Java` |
+| Data & Machine Learning | `Pandas` `NumPy` `Scikit-learn` `PyTorch` `TensorFlow` `Statistics` `Data Mining` |
+| Visualization | `Matplotlib` `Plotly` `Streamlit` |
+| Tools | `Git` `GitHub` `Linux` `VS Code` `Jupyter` |
 
 ---
 
-<p align="center">
-  ☄️ &nbsp; · &nbsp; ✦ &nbsp; · &nbsp; 🪐 &nbsp; · &nbsp; ✧ &nbsp; · &nbsp; ☾
-</p>
-
 ## ✦ Beyond Code
 
-I'm interested in things that exist outside a dataset too.
+I'm interested in things that exist outside a data too.
 
-**Astronomy** — especially computational approaches to exoplanets,cosmology, and scientific data.
-
-**Scuba Diver** — the serenity in the silence and the beauty of the ocean biodiversity staggers me.
-
-**Books & Writing** — fiction, literature, research, and writing about things I find interesting on Substack.
-
-**Art & Creativity** — because not everything needs to be optimized.
-
-**International Programmes & Collaboration (BITS Dubai):** Professional Assistant created and managing _webpage portal_ for students to browse through opportunities and work on supporting outreach, partnerships and promotional content for international academic initiatives.
-
-**A (very) brief experience as a Co-founder:** Co-founded VAKAN, an underwater robotics startup building an autonomous cleaning robot. Named a Top 30 semi-finalist at Eureka! GCC and won a Cleantech Startup Innovator Award.
-
-**AIESEC Dubai:** Passionate about NGO and youth-impact work. I manage exchange operations that match volunteers with projects worldwide and support local volunteering in Dubai.
+| Area | About |
+|---|---|
+| **Astronomy** | Especially computational approaches to exoplanets, cosmology, and scientific data. |
+| **Scuba Diving** | The serenity in the silence and the beauty of the ocean biodiversity staggers me. |
+| **Books & Writing** | Fiction, literature, research, and writing about things I find interesting on Substack. |
+| **Art & Creativity** | Because not everything needs to be optimized. |
+| **International Programmes & Collaboration (BITS Dubai)** | Professional Assistant who created and manages a webpage portal for students to browse opportunities, and supports outreach, partnerships, and promotional content for international academic initiatives. |
+| **Co-founder Experience (VAKAN)** | A (very) brief stint co-founding VAKAN, an underwater robotics startup building an autonomous cleaning robot. Named a Top 30 semi-finalist at Eureka! GCC and won a Cleantech Startup Innovator Award. |
+| **AIESEC Dubai** | Passionate about NGO and youth-impact work. I manage exchange operations that match volunteers with projects worldwide and support local volunteering in Dubai. |
 
 ---
 
