@@ -63,60 +63,20 @@ computing, and astronomy(self-study for personal interest).
 
 ## 🧪 Research & Projects
 
-### 🔬 Selective Erasure of Patient-level Multimodal Representations *(in progress)*
-Research on machine unlearning for healthcare AI: removing a specific
-patient's data from trained multimodal models without retraining from scratch.
+### 🔭 Currently Researching
+| | Project | Focus |
+|---|---|---|
+| 🔬 | **Selective Erasure of Patient-level Multimodal Representations** | Machine unlearning for healthcare AI: removing a patient's data from trained models without retraining |
+| 🧬 | **Cell Group Identification Using Gen AI** | Using generative AI to identify and group cell populations in biological data |
 
-**Exploring:** Machine Unlearning · Multimodal Learning · Representation Learning · Privacy · PyTorch
-
----
-
-### 🧬 Cell Group Identification Using Gen AI *(in progress)*
-Research on using generative AI to identify and group cell populations
-in biological data.
-
-**Exploring:** Generative AI · Single-Cell Data · Clustering · Python
-
----
-
-### 🧠 LLM Hallucination Detection
-Detects hallucinations before a language model generates its answer,
-using internal attention and representation signals. Reached 0.66 AUROC on RAGTruth.
-
-**Exploring:** NLP · Transformers · RAG · Representation Analysis · PyTorch
-
----
-
-### 🌍 Terrain Detection
-Computer vision project adapting a segmentation model from city scenes to
-off-road terrain. Improved from 0.27 to 0.30 mIoU by adding edge-map inputs.
-
-**Exploring:** Deep Learning · Semantic Segmentation · PyTorch · Computer Vision
-
----
-
-### 🚗 Road Accident Severity Prediction
-End-to-end ML pipeline on Chicago crash data (0.81 Macro F1), with SHAP/LIME
-explainability and a Streamlit dashboard that maps crash hotspots.
-
-**Exploring:** LightGBM · Explainable AI · Geospatial Analysis · Streamlit
-
----
-
-### 📊 Data Analytics (Eatigo Internship)
-- Built Python and SQL pipelines processing 10,000+ transactional records per reporting cycle to track merchant performance and retention.
-- Automated dashboards and reporting workflows, cutting manual effort and making data easier for teams to access.
-- Analyzed trends to surface insights and growth opportunities for the business.
-
-**Exploring:** Python · SQL · Pandas · Data Visualization
-
----
-
-### 🎓 Mentorship & Workshops
-- Oversaw four students on their machine learning projects as Data Analytics Mentor.
-- Planned and ran workshops, hackathons and guest lectures as Technical Manager of the ACM-W student chapter to build data science and computing skills across the student community.
-
-**Exploring:** Machine Learning · Teaching · Community Building · Event Leadership
+### 🚀 Built & Delivered
+| | Project | Result | Stack |
+|---|---|---|---|
+| 🧠 | **LLM Hallucination Detection** | Flags hallucinations *before* the model answers | 0.66 AUROC · PyTorch |
+| 🌍 | **Terrain Detection** | Segmentation model adapted from city to off-road scenes | 0.27 → 0.30 mIoU · PyTorch |
+| 🚗 | **Road Accident Severity Prediction** | ML pipeline with explainability and a crash-hotspot dashboard | 0.81 Macro F1 · LightGBM · Streamlit |
+| 📊 | **Data Analytics @ Eatigo** | Automated pipelines and dashboards for merchant retention | 10,000+ records/cycle · Python · SQL |
+| 🎓 | **Mentorship & Workshops** | Mentored 4 students on ML projects, ran workshops and hackathons (ACM-W) | Teaching · Event Leadership |
 
 ---
 
