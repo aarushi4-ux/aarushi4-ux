@@ -101,6 +101,8 @@ explainability and a Streamlit dashboard that maps crash hotspots.
 
 **Exploring:** LightGBM · Explainable AI · Geospatial Analysis · Streamlit
 
+---
+
 ### 📊 Data Analytics (Eatigo Internship)
 - Built Python and SQL pipelines processing 10,000+ transactional records per reporting cycle to track merchant performance and retention.
 - Automated dashboards and reporting workflows, cutting manual effort and making data easier for teams to access.
