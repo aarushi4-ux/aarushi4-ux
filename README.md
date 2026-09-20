@@ -26,7 +26,6 @@
   <a href="mailto:kothariaarushi2006@gmail.com">Email</a>
 </p>
 
----
 
 ## ☼ About Me
 
@@ -40,7 +39,6 @@ I'm particularly interested in the intersection of:
 Currently exploring machine learning, data analytics, scientific
 computing, and astronomy(self-study for personal interest).
 
----
 
 <p align="center">
   ✦ ─────────────── 🪐 ─────────────── ✦
@@ -78,7 +76,6 @@ computing, and astronomy(self-study for personal interest).
 | **Data Analytics Intern @Eatigo Thailand** | Automated pipelines and dashboards for merchant retention | 10,000+ records/cycle · Python · SQL |
 | **Mentorship & Workshops** | Mentored 4 students on ML projects and ran workshops to teach Data Analytics | Teaching · Event Leadership |
 
----
 
 <p align="center">
   ✦ ─────────────── 🌍 ─────────────── ✦
@@ -93,7 +90,6 @@ computing, and astronomy(self-study for personal interest).
 | Visualization | `Matplotlib` `Plotly` `Streamlit` |
 | Tools | `Git` `GitHub` `Linux` `VS Code` `Jupyter` |
 
----
 
 ## ✦ Beyond Code
 
