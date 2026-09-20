@@ -117,9 +117,9 @@ I'm interested in things that exist outside a dataset too.
 
 **🎨 Art & Creativity** — because not everything needs to be optimized.
 
-**International Programmes & Collaboration (BITS Dubai):** Professional Assistant supporting outreach, partnerships and promotional content for international academic initiatives.
+**International Programmes & Collaboration (BITS Dubai):** Professional Assistant created and managing _webpage portal_ for students to browse through opportunities and work on supporting outreach, partnerships and promotional content for international academic initiatives.
 
-**(Very) brief experience as a Co-founder:** Co-founded VAKAN, an underwater robotics startup building an autonomous cleaning robot. Named a Top 30 semi-finalist at Eureka! GCC and won a Cleantech Startup Innovator Award.
+**(very) brief experience as a Co-founder:** Co-founded VAKAN, an underwater robotics startup building an autonomous cleaning robot. Named a Top 30 semi-finalist at Eureka! GCC and won a Cleantech Startup Innovator Award.
 
 **AIESEC Dubai:** Passionate about NGO and youth-impact work. I manage exchange operations that match volunteers with projects worldwide and support local volunteering in Dubai.
 
