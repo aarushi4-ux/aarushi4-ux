@@ -50,10 +50,10 @@ computing, and astronomy(self-study for personal interest).
 
 | ✦ Area | What I'm interested in |
 |---|---|
-| 🧠 **Machine Learning** | Building and evaluating ML systems for real-world data |
-| 📊 **Data Science** | Finding patterns, extracting insights, and communicating results |
-| ⚛️ **Scientific Computing** | Applying computational methods to scientific datasets |
-| 🤖 **Applied AI** | Understanding how intelligent systems behave and how to make them more reliable |
+| **Machine Learning** | Building and evaluating ML systems for real-world data |
+| **Data Science** | Finding patterns, extracting insights, and communicating results |
+| **Scientific Computing** | Applying computational methods to scientific datasets |
+| **Applied AI** | Understanding how intelligent systems behave and how to make them more reliable |
 
 ---
 
@@ -109,13 +109,13 @@ computing, and astronomy(self-study for personal interest).
 
 I'm interested in things that exist outside a dataset too.
 
-**🔭 Astronomy** — especially computational approaches to exoplanets,cosmology, and scientific data.
+**Astronomy** — especially computational approaches to exoplanets,cosmology, and scientific data.
 
-**🤿 Scuba Diver** — the serenity in the silence and the beauty of the ocean biodiversity staggers me.
+**Scuba Diver** — the serenity in the silence and the beauty of the ocean biodiversity staggers me.
 
-**📚 Books & Writing** — fiction, literature, research, and writing about things I find interesting on Substack.
+**Books & Writing** — fiction, literature, research, and writing about things I find interesting on Substack.
 
-**🎨 Art & Creativity** — because not everything needs to be optimized.
+**Art & Creativity** — because not everything needs to be optimized.
 
 **International Programmes & Collaboration (BITS Dubai):** Professional Assistant created and managing _webpage portal_ for students to browse through opportunities and work on supporting outreach, partnerships and promotional content for international academic initiatives.
 
