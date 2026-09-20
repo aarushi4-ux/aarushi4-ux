@@ -63,20 +63,20 @@ computing, and astronomy(self-study for personal interest).
 
 ## 🧪 Research & Projects
 
-### 🔭 Currently Researching
-| | Project | Focus |
-|---|---|---|
-| 🔬 | **Selective Erasure of Patient-level Multimodal Representations** | Machine unlearning for healthcare AI: removing a patient's data from trained models without retraining |
-| 🧬 | **Cell Group Identification Using Gen AI** | Using generative AI to identify and group cell populations in biological data |
+###Currently Researching
+| Project | Focus |
+|---|---|
+| **Selective Erasure of Patient-level Multimodal Representations** | Machine unlearning for healthcare AI: removing a patient's data from trained models without retraining |
+| **Cell Group Identification Using Gen AI** | Using generative AI to identify and group cell populations in biological data |
 
-### 🚀 Built & Delivered
-| | Project | Result | Stack |
-|---|---|---|---|
-| 🧠 | **LLM Hallucination Detection** | Flags hallucinations *before* the model answers | 0.66 AUROC · PyTorch |
-| 🌍 | **Terrain Detection** | Segmentation model adapted from city to off-road scenes | 0.27 → 0.30 mIoU · PyTorch |
-| 🚗 | **Road Accident Severity Prediction** | ML pipeline with explainability and a crash-hotspot dashboard | 0.81 Macro F1 · LightGBM · Streamlit |
-| 📊 | **Data Analytics @ Eatigo** | Automated pipelines and dashboards for merchant retention | 10,000+ records/cycle · Python · SQL |
-| 🎓 | **Mentorship & Workshops** | Mentored 4 students on ML projects, ran workshops and hackathons (ACM-W) | Teaching · Event Leadership |
+### Built
+| Project | Result | Stack |
+|---|---|---|
+| **LLM Hallucination Detection** | Flags hallucinations *before* the model answers | 0.66 AUROC · PyTorch |
+| **Terrain Detection** | Segmentation model adapted from city to off-road scenes | 0.27 → 0.30 mIoU · PyTorch |
+| **Road Accident Severity Prediction** | ML pipeline with explainability and a crash-hotspot dashboard | 0.81 Macro F1 · LightGBM · Streamlit |
+| **Data Analytics @ Eatigo** | Automated pipelines and dashboards for merchant retention | 10,000+ records/cycle · Python · SQL |
+| **Mentorship & Workshops** | Mentored 4 students on ML projects, ran workshops and hackathons (ACM-W) | Teaching · Event Leadership |
 
 ---
 
