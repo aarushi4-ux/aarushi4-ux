@@ -101,13 +101,30 @@ explainability and a Streamlit dashboard that maps crash hotspots.
 
 **Exploring:** LightGBM · Explainable AI · Geospatial Analysis · Streamlit
 
----
-
-### 📊 Data Analytics
-Python and SQL pipelines processing 10,000+ transactional records per cycle
-for merchant retention analysis, with automated reporting.
+### 📊 Data Analytics (Eatigo Internship)
+- Built Python and SQL pipelines processing 10,000+ transactional records per reporting cycle to track merchant performance and retention.
+- Automated dashboards and reporting workflows, cutting manual effort and making data easier for teams to access.
+- Analyzed trends to surface insights and growth opportunities for the business.
 
 **Exploring:** Python · SQL · Pandas · Data Visualization
+
+---
+
+### 🎓 Mentorship & Workshops
+- Oversaw four students on their machine learning projects as Data Analytics Mentor.
+- Planned and ran workshops, hackathons and guest lectures as Technical Manager of the ACM-W student chapter to build data science and computing skills across the student community.
+
+**Exploring:** Machine Learning · Teaching · Community Building · Event Leadership
+
+---
+
+### 🌱 Beyond the Classroom
+- 🤝 **International Programmes & Collaboration (BITS Dubai):** Professional Assistant supporting outreach, partnerships and promotional content for international academic initiatives.
+- 🚀 ** Brief experience as a Co-founder:** Co-founded VAKAN, an underwater robotics startup building an autonomous cleaning robot. Named a Top 30 semi-finalist at Eureka! GCC and won a Cleantech Startup Innovator Award.
+- 🌍 **AIESEC Dubai:** Passionate about NGO and youth-impact work. I manage exchange operations that match volunteers with projects worldwide and support local volunteering in Dubai.
+
+**Exploring:** Partnerships · Entrepreneurship · Social Impact · Volunteering
+
 
 ---
 
