@@ -149,13 +149,11 @@ explainability and a Streamlit dashboard that maps crash hotspots.
 
 I'm interested in things that exist outside a dataset too.
 
-**🔭 Astronomy** — especially computational approaches to exoplanets,
-cosmology, and scientific data.
+**🔭 Astronomy** — especially computational approaches to exoplanets,cosmology, and scientific data.
 
-**🤿 Scuba Diver** — the serenity in the silence, the beauty of the ocean life
+**🤿 Scuba Diver** — the serenity in the silence and the beauty of the ocean biodiversity staggers me.
 
-**📚 Books & Writing** — fiction, literature, research, and writing about
-things I find interesting on substack.
+**📚 Books & Writing** — fiction, literature, research, and writing about things I find interesting on Substack.
 
 **🎨 Art & Creativity** — because not everything needs to be optimized.
 
