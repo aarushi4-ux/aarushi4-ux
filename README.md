@@ -53,7 +53,6 @@ computing, and astronomy(self-study for personal interest).
 | **Scientific Computing** | Applying computational methods to scientific datasets |
 | **Applied AI** | Understanding how intelligent systems behave and how to make them more reliable |
 
----
 
 <p align="center">
   · &nbsp; ✧ &nbsp; · &nbsp; ☾ &nbsp; · &nbsp; ✧ &nbsp; ·
