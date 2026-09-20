@@ -46,7 +46,7 @@ computing, and astronomy(self-study for personal interest).
   ✦ ─────────────── 🪐 ─────────────── ✦
 </p>
 
-## 🔭 What I'm Exploring
+## ☾ What I'm Exploring
 
 | ✦ Area | What I'm interested in |
 |---|---|
@@ -61,7 +61,7 @@ computing, and astronomy(self-study for personal interest).
   · &nbsp; ✧ &nbsp; · &nbsp; ☾ &nbsp; · &nbsp; ✧ &nbsp; ·
 </p>
 
-## 🧪 Research & Projects
+## 🪐 Research & Projects
 
 ### Currently Researching
 | Project | Focus |
@@ -105,7 +105,7 @@ computing, and astronomy(self-study for personal interest).
   ☄️ &nbsp; · &nbsp; ✦ &nbsp; · &nbsp; 🪐 &nbsp; · &nbsp; ✧ &nbsp; · &nbsp; ☾
 </p>
 
-## 🌌 Beyond Code
+## ✦ Beyond Code
 
 I'm interested in things that exist outside a dataset too.
 
