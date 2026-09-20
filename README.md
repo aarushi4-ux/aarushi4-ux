@@ -64,15 +64,6 @@ computing, and astronomy.
 
 ## 🧪 Research & Projects
 
-### ⚛️ LHC Anomaly Detection
-Unsupervised machine learning on simulated particle physics events,
-using reconstruction error and latent representations to identify
-unusual events.
-
-**Exploring:** Autoencoders · Anomaly Detection · ROOT · Python · ML
-
----
-
 ### 🧠 LLM Hallucination Detection
 Researching methods for detecting hallucinations in language models
 using representation-level signals and supervised learning.
