@@ -63,25 +63,49 @@ computing, and astronomy(self-study for personal interest).
 
 ## 🧪 Research & Projects
 
+### 🔬 Selective Erasure of Patient-level Multimodal Representations *(in progress)*
+Research on machine unlearning for healthcare AI: removing a specific
+patient's data from trained multimodal models without retraining from scratch.
+
+**Exploring:** Machine Unlearning · Multimodal Learning · Representation Learning · Privacy · PyTorch
+
+---
+
+### 🧬 Cell Group Identification Using Gen AI *(in progress)*
+Research on using generative AI to identify and group cell populations
+in biological data.
+
+**Exploring:** Generative AI · Single-Cell Data · Clustering · Python
+
+---
+
 ### 🧠 LLM Hallucination Detection
-Researching methods for detecting hallucinations in language models
-using representation-level signals and supervised learning.
+Detects hallucinations before a language model generates its answer,
+using internal attention and representation signals. Reached 0.66 AUROC on RAGTruth.
 
 **Exploring:** NLP · Transformers · RAG · Representation Analysis · PyTorch
 
 ---
 
 ### 🌍 Terrain Detection
-Computer vision project focused on semantic segmentation and adapting
-models to unfamiliar terrain datasets.
+Computer vision project adapting a segmentation model from city scenes to
+off-road terrain. Improved from 0.27 to 0.30 mIoU by adding edge-map inputs.
 
 **Exploring:** Deep Learning · Semantic Segmentation · PyTorch · Computer Vision
 
 ---
 
+### 🚗 Road Accident Severity Prediction
+End-to-end ML pipeline on Chicago crash data (0.81 Macro F1), with SHAP/LIME
+explainability and a Streamlit dashboard that maps crash hotspots.
+
+**Exploring:** LightGBM · Explainable AI · Geospatial Analysis · Streamlit
+
+---
+
 ### 📊 Data Analytics
-Building data analysis pipelines that turn large transactional datasets
-into useful business insights and automated reporting.
+Python and SQL pipelines processing 10,000+ transactional records per cycle
+for merchant retention analysis, with automated reporting.
 
 **Exploring:** Python · SQL · Pandas · Data Visualization
 
