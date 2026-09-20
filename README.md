@@ -158,11 +158,10 @@ cosmology, and scientific data.
 things I find interesting on substack.
 
 **🎨 Art & Creativity** — because not everything needs to be optimized.
-### 🌱 Beyond the Classroom
 
 **International Programmes & Collaboration (BITS Dubai):** Professional Assistant supporting outreach, partnerships and promotional content for international academic initiatives.
 
-** (Very) brief experience as a Co-founder:** Co-founded VAKAN, an underwater robotics startup building an autonomous cleaning robot. Named a Top 30 semi-finalist at Eureka! GCC and won a Cleantech Startup Innovator Award.
+**(Very) brief experience as a Co-founder:** Co-founded VAKAN, an underwater robotics startup building an autonomous cleaning robot. Named a Top 30 semi-finalist at Eureka! GCC and won a Cleantech Startup Innovator Award.
 
 **AIESEC Dubai:** Passionate about NGO and youth-impact work. I manage exchange operations that match volunteers with projects worldwide and support local volunteering in Dubai.
 
