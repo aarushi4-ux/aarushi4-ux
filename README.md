@@ -38,7 +38,7 @@ I'm particularly interested in the intersection of:
 **data → intelligent systems → scientific discovery**
 
 Currently exploring machine learning, data analytics, scientific
-computing, and astronomy.
+computing, and astronomy(self-study for personal interest).
 
 ---
 
