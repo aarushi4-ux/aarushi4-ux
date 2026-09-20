@@ -104,7 +104,6 @@ I'm interested in things that exist outside a data too.
 | **Co-founder Experience (VAKAN)** | A (very) brief stint co-founding VAKAN, an underwater robotics startup building an autonomous cleaning robot. Named a Top 30 semi-finalist at Eureka! GCC and won a Cleantech Startup Innovator Award. |
 | **AIESEC Dubai** | Passionate about NGO and youth-impact work. I manage exchange operations that match volunteers with projects worldwide and support local volunteering in Dubai. |
 
----
 
 <p align="center">
   <sub>
@@ -116,7 +115,6 @@ I'm interested in things that exist outside a data too.
   ☾ &nbsp;&nbsp; ✧ &nbsp;&nbsp; · &nbsp;&nbsp; 🪐 &nbsp;&nbsp; · &nbsp;&nbsp; ✦ &nbsp;&nbsp; · &nbsp;&nbsp; 🌍 &nbsp;&nbsp; ✧
 </p>
 
----
 
 ## 📫 Let's Connect
 
