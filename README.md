@@ -143,8 +143,10 @@ I'm interested in things that exist outside a dataset too.
 **🔭 Astronomy** — especially computational approaches to exoplanets,
 cosmology, and scientific data.
 
+**🤿 Scuba Diver** — the serenity in the silence, the beauty of the ocean life
+
 **📚 Books & Writing** — fiction, literature, research, and writing about
-things I find interesting.
+things I find interesting on substack.
 
 **🎨 Art & Creativity** — because not everything needs to be optimized.
 
